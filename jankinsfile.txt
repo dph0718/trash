@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Ain nothin in here.
+=======
 somethin in here.
+>>>>>>> b185ac6aa3c89167a39b52b32b2da7825dc4582b
